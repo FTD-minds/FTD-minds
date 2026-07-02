@@ -27,7 +27,7 @@ A deterministic, strategy-agnostic backtesting engine built to test whether a po
 ## 🧪 Additional Projects
 
 - **[BrainBloom](https://gobrainbloom.netlify.app/)** — AI-powered brain-development app prototype for children 1–8: age-gated learning paths, a Brain Score dashboard, adaptive activity flows. *AI personalization is simulated to demonstrate the product UX.*
-- **[Internal AI Proposal — The Vitamin Shoppe](https://senayaiportfolio.netlify.app/)** — interactive proposal mapping AI opportunities across real enterprise workflows, presented to IT leadership. *Simulated demonstrations; no employer code or confidential systems published.*
+- **[Internal AI Proposal — The Vitamin Shoppe](https://internal-ai-platform.netlify.app/)** — interactive proposal mapping AI opportunities across real enterprise workflows, presented to IT leadership. *Simulated demonstrations; no employer code or confidential systems published.*
 - **[DialysisOS](https://drcollinsaidashboard.netlify.app/)** — AI executive operations dashboard for a dialysis-center operator, live at one center. Claude API orchestration + Google APIs (OAuth) for natural-language operational reporting. *Business operations only — no PHI.*
 - **[Portfolio](https://ftd-minds.github.io/portfolio/)** — the front door ([source](https://github.com/FTD-minds/portfolio)).
 
