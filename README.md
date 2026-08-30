@@ -15,7 +15,7 @@ Production-ready platform for AI copilots that diagnose operational problems. **
 `Python` `FastAPI` `Docker` `pgvector` `GitHub Actions`
 
 ### [MindNest Showcase](https://github.com/FTD-minds/mindnest-showcase) · [▶ Live demo](https://mindnest-delta.vercel.app)
-An AI parenting coach wrapped in a complete subscription product — designed and built end-to-end as sole engineer, and deployed. RAG pipeline (Voyage embeddings + pgvector), Row Level Security on every user-facing table, Stripe billing with a webhook as the sole writer of subscription state, CI with a deterministic eval harness. Sanitized public showcase: proprietary prompts are labeled placeholders; all engineering is intact and runnable.
+An AI parenting coach wrapped in a complete subscription product — designed and built end-to-end as sole engineer, and deployed. RAG pipeline (Voyage embeddings + pgvector), Row Level Security on every user-facing table, Stripe billing with a webhook as the sole writer of subscription state, CI with a deterministic eval harness. Sanitized public showcase: proprietary prompts are labeled placeholders; all engineering is intact and runnable. *The live product now ships under the **ParentNest** brand (renamed August 2026); the showcase repository keeps the MindNest name.*
 `Next.js 14` `TypeScript` `Supabase` `Claude` `Stripe`
 
 ### [FTD Quantitative Research](https://github.com/FTD-minds/ftd-quantitative-research) · [📄 Case study](https://github.com/FTD-minds/ftd-quantitative-research/blob/main/docs/case-study.md)
