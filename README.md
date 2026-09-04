@@ -1,6 +1,6 @@
 # Hi, I'm Senay 👋
 
-**Enterprise AI & Integrations Engineer** — I build AI-powered software that solves real business problems: enterprise copilots, intelligent dashboards, and production AI applications.
+**Technical Solutions Engineer | AI Product Support | B2B SaaS Integrations** — I work between customers and technical systems: validating what AI products actually produce, reproducing what breaks, and getting it fixed with Engineering. I also build — everything below is deployed, evaluated, and verifiable.
 
 7+ years of enterprise systems and customer-facing engineering, now applied to AI systems that are deployed, evaluated, and verifiable. The repositories below include architecture documentation, engineering decision records (ADRs), CI, and live demos where applicable.
 
@@ -37,4 +37,4 @@ A deterministic, strategy-agnostic backtesting engine built to test whether a po
 `Python` · `FastAPI` · `Docker` · `Postgres/pgvector` · `RAG` · `Claude API` · `OpenAI API` · `Next.js` · `TypeScript` · `Supabase` · `Stripe` · `Google APIs` · `OAuth` · `GitHub Actions` · `pytest` · `ERP integrations (NetSuite, Sage Intacct, QuickBooks)`
 
 ## 🎯 Open to
-AI Solutions Engineer · Forward Deployed Engineer · Enterprise AI Engineer · Applied AI Engineer · Customer / Technical Account Engineer
+Technical Solutions Engineer · Solutions Engineer · AI Product Support · Customer Engineer · AI Implementation / Integration — also: AI Solutions Engineer · Support Engineering · Technical Operations
