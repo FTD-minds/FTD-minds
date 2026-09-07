@@ -4,7 +4,7 @@
 
 7+ years of enterprise systems and customer-facing engineering, now applied to AI systems that are deployed, evaluated, and verifiable. The repositories below include architecture documentation, engineering decision records (ADRs), CI, and live demos where applicable.
 
-🌐 **[Portfolio](https://ftd-minds.github.io/portfolio/)** · ✉️ [senaymesfin20@gmail.com](mailto:senaymesfin20@gmail.com) · 📍 Sandy Springs, GA + Remote
+🌐 **[Portfolio](https://ftd-minds.github.io/portfolio/)** · 💼 [LinkedIn](https://www.linkedin.com/in/senaymesfin) · ✉️ [senaymesfin20@gmail.com](mailto:senaymesfin20@gmail.com) · 📍 Sandy Springs, GA + Remote
 
 ---
 
