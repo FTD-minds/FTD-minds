@@ -14,8 +14,8 @@
 Production-ready platform for AI copilots that diagnose operational problems. **RAG with citations**, a **model-agnostic provider router** (Anthropic/OpenAI → Bedrock/Vertex — swap models by configuration), and **evaluation-gated CI/CD** where a golden-case harness blocks any regressing change. Module 1 — *ERP Sync Reconciliation* — diagnoses why an accounting sync failed and shows the math, with every claim cited.
 `Python` `FastAPI` `Docker` `pgvector` `GitHub Actions`
 
-### [MindNest Showcase](https://github.com/FTD-minds/mindnest-showcase) · [▶ Live demo](https://mindnest-delta.vercel.app)
-An AI parenting coach wrapped in a complete subscription product — designed and built end-to-end as sole engineer, and deployed. RAG pipeline (Voyage embeddings + pgvector), Row Level Security on every user-facing table, Stripe billing with a webhook as the sole writer of subscription state, CI with a deterministic eval harness. Sanitized public showcase: proprietary prompts are labeled placeholders; all engineering is intact and runnable. *The live product now ships under the **ParentNest** brand (renamed August 2026); the showcase repository keeps the MindNest name.*
+### [ParentNest](https://ftd-minds.github.io/portfolio/parentnest-case-study.html) · [▶ Live demo](https://mindnest-delta.vercel.app)
+An AI parenting coach wrapped in a complete subscription product — designed and built end-to-end as sole engineer, and deployed. RAG pipeline (Voyage embeddings + pgvector), Row Level Security on every user-facing table, Stripe billing with a webhook as the sole writer of subscription state, CI with a deterministic eval harness. Full engineering case study on my [portfolio](https://ftd-minds.github.io/portfolio/parentnest-case-study.html); the source repository is private.
 `Next.js 14` `TypeScript` `Supabase` `Claude` `Stripe`
 
 ### [FTD Quantitative Research](https://github.com/FTD-minds/ftd-quantitative-research) · [📄 Case study](https://github.com/FTD-minds/ftd-quantitative-research/blob/main/docs/case-study.md)
